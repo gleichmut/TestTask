@@ -1,6 +1,6 @@
 ﻿namespace TestTask1
 {
-    internal class Check
+    public class Check
     {
         public static double CheckNegativeNumeric(double numeric)
         {

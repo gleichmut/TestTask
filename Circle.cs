@@ -3,7 +3,7 @@
     /// <summary>
     /// Класс круга
     /// </summary>
-    internal class Circle : Figure
+    public class Circle : Figure
     {
         /// <summary>
         /// Радиус

@@ -3,7 +3,7 @@
     /// <summary>
     /// Класс треугольника
     /// </summary>
-    internal class Triangle : Figure
+    public class Triangle : Figure
     {
         /// <summary>
         /// Первая сторона треугольника
@@ -21,7 +21,7 @@
         public double C { get; set; }
 
         /// <summary>
-        /// Название фигура
+        /// Название фигуры
         /// </summary>
         /// <returns></returns>
         public override string GetNameFigure() => $"Triangle";

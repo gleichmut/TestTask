@@ -3,7 +3,7 @@
     /// <summary>
     /// Абстрактный класс фигур
     /// </summary>
-    abstract class Figure
+    public abstract class Figure
     {
         /// <summary>
         /// Вычисление площадь
